@@ -1,4 +1,6 @@
 Canine UPEC Growth and Biofilm Phenotyping Analysis
+
+```text
 Overview
 
 This repository contains the R code used for analysis and visualization of growth kinetics and biofilm formation in a collection of canine uropathogenic Escherichia coli (UPEC) isolates evaluated under different in vitro growth conditions.
@@ -378,7 +380,6 @@ The scripts correspond primarily to individual manuscript figures and tables and
 
 The principal analysis workflow is:
 
-```text
 Growth data
     │
     ├── Figure 2a: Terminal growth comparison
