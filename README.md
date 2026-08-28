@@ -378,6 +378,7 @@ The scripts correspond primarily to individual manuscript figures and tables and
 
 The principal analysis workflow is:
 
+```text
 Growth data
     │
     ├── Figure 2a: Terminal growth comparison
@@ -405,6 +406,7 @@ Growthcurver output
 Raw growth trajectories
     │
     └── Supplementary Figure 2: Individual growth curves
+
 Code Availability
 
 The R scripts in this repository correspond to analyses performed for the accompanying publication. The archived release associated with the final manuscript should be used when reproducing the published analyses.
